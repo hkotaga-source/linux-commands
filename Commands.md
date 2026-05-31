@@ -29,4 +29,8 @@
 
 13. To list  available and used disk space in human-readable formats : "df -h"
 
+14. To display the entire contents of a text file : "cat"
 
+15. To search for specific text patterns inside files : "grep"
+    
+17. To modify permissions regarding read , write and execution : "chmod"
